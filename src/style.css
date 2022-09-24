@@ -18,6 +18,7 @@
 
 #todo-input {
   width: 20%;
+  min-width: 20rem;
 }
 
 .todo-item {
