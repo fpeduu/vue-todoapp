@@ -28,19 +28,25 @@
 ### 🔧 Features
 
 - Adding todos:
-  - Every time you click 'Novo todo' or presses enter the site verifies if the input value is not null and adds a new todo to the list:
+  - Every time you click 'Novo todo' or presses enter the site verifies if the input value is not null and adds a new todo to the list:  
+<br />
+
   ![alt](./src/assets/Screenshot_2.png)
 
 <br />
 
 - Removing todos:
   - By clicking the trash can icon you can easily delete a mistyped or unwanted todo:
+<br />
+
   ![alt](./src/assets/Screenshot_3.png)
   
 <br />
 
 - Marking and seeing todos status:
   - When you mark, unmark, add or delete a todo, a function is called, verifying wether all todos are checked or not and displaying a message according to the context:
+<br />
+
   ![alt](./src/assets/Screenshot_4.png)
 
 <br />
